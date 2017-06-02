@@ -1,0 +1,67 @@
+
+gameplay.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+body
+  rotate: false
+  xy: 2, 134
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1
+collectable
+  rotate: false
+  xy: 2, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+speeddown
+  rotate: false
+  xy: 724, 790
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+speedup
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+token_lose_tail
+  rotate: false
+  xy: 68, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+
+gameplay2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+head
+  rotate: false
+  xy: 2, 2
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1
+
+gameplay3.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
